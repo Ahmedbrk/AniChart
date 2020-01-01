@@ -5,7 +5,7 @@ library(plotly)
 library(lubridate)
 library(crosstalk)
 library(shinythemes)
-library(crosstalk)
+
 
 # Load data ---- 
 df_mo_prop <- read_csv("data/data.csv")
